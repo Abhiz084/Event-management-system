@@ -1,0 +1,5 @@
+{
+  "name": "Aether Events: AI-Powered Event Management",
+  "description": "A next-generation event management platform MVP that leverages AI to help you create stunning event pages. Generate compelling descriptions and unique banner images with the power of Google's Gemini API.",
+  "requestFramePermissions": []
+}
